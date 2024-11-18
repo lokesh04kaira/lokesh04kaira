@@ -28,10 +28,6 @@ Happy coding and stay inspired! 🎉🚀✨
 
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&logoWidth=40&label=&labelColor=grey)](https://instagram.com/mriganshubora) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=40&label=&labelColor=grey)](https://linkedin.com/in/mriganshubora) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white&logoWidth=40&label=&labelColor=grey)](https://quora.com/profile/mriganshubora) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&logoWidth=40&label=&labelColor=grey)](https://twitter.com/mrigansgy)
-
-
 # 💻 Tech Stack:
 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white&logoWidth=40&label=&labelColor=grey)
@@ -72,37 +68,4 @@ Presenting My Work: Explore My Dynamic Portfolio of Projects and Contributions!
 
 
 
-[![Mriganshu's GitHub activity graph](https://github-readme-graph.vercel.app/api/graph?username=mriganshu16&bg_color=000000&color=70A1FF&line=70A1FF&point=FFFFFF)](https://github.com/mriganshu16)
 
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mriganshu16&show_icons=true&theme=tokyonight&title_color=70A1FF&text_color=FFFFFF&bg_color=000000" alt="Mriganshu's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mriganshu16&theme=tokyonight&background=000000" alt="GitHub Streak" width="48%" />
-</div>
-
-## Recent articles on [Hashnode](https://mriganshu16.hashnode.dev/)
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-
-
-# Recent Activity :zap:
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-
-### 🔝 Top Contributed Repo
-
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=mriganshu16&limit=5&theme=dark&bg_color=0D1117&text_color=EEF0F1&title_color=58A6FF&hide_border=true&border_color=58A6FF&border_radius=10&combine_all_yearly_contributions=true)
-
-
-
-
----
-
-[![Visit Count](https://komarev.com/ghpvc/?username=mriganshu16&color=blueviolet)](https://github.com/mriganshu16)
-
-
----
